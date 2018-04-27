@@ -1,0 +1,8 @@
+{
+  "name": "bracev2",
+  "app_id": "507dae6f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
